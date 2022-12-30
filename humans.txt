@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jordan Beaubien jordanbeaubien@me.com	@twitter
 
 # THANKS
 
