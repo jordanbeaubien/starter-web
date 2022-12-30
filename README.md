@@ -15,3 +15,6 @@ Sample words for deployment
 ## Yet another example title
 There are words now
 Another Line
+
+### Copyright
+2014 Git.Training  
