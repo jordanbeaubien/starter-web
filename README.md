@@ -16,5 +16,7 @@ Sample words for deployment
 There are words now
 Another Line
 
+Please fork this repository and then issue Pull requests for rewiew.
+
 ### Copyright
 2014 Git.Training  
