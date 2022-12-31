@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-Introduction Text
+Introduction Text. We are adding a line for rebasing example.
 
 ## Purpose
 Sample website with plenty of files for demos
