@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-Introduction Text. We are adding a line for rebasing example.
+Introduction Text. We are adding a line for rebasing example, them more changes from myfeature branch too.
 
 ## Purpose
 Sample website with plenty of files for demos
